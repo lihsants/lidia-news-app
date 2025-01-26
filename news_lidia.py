@@ -103,6 +103,19 @@ if st.button("Open your letter +18 - 26 jan💋"):
             <p>Be careful, okay my love? I know that you wants fast results, but don't lose of your eyes your health too... You have to have health to put up me while I ride on you hahah</p>
             <p>I wasn't going to send a letter today, but you visited my mind all night... and I'm warning you right now, this letter is a little bit +18🙃</p>
             <p></p>
+            </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    cola1, cola2, cola3 = st.columns([1, 2, 1])
+
+    with cola2:
+        st.video("gif.mp4")
+        
+    st.markdown(
+        """
+        <div class="custom-container">        
             <p>Mr. Ryan, you back to your country and left a little you in my mind telling "chickens" all day hahaha (send me this vídeo pleaseee haha) </p>
             <p>I miss your kisses, you pressing me against the wall, holding my neck, looking into my eyes while you caressed me. </p>
             <p>I miss you putting my breasts in your mouth, your kisses on my pussy. Oh, I really regret not letting you cum inside me. I know I would be crazy with fear of getting pregnant hahaha, but now I have to imagine what it would be like to have you inside me, cumming for me and moaning in my ear. You move me, boy, a lot... and do you know what's the worst? Or the best for you? rsrs... that you moved me by just being yourself, doing and saying little things, and with that beautiful way of looking at me. </p>
@@ -110,6 +123,8 @@ if st.button("Open your letter +18 - 26 jan💋"):
         """,
         unsafe_allow_html=True,
     )
+    
+    
     
     col1, col2, col3 = st.columns([1, 2, 1])
     
@@ -134,3 +149,5 @@ if st.button("Open your letter +18 - 26 jan💋"):
 # Rodapé
 st.write("---")
 st.caption("Created with ❤️ using freetime")
+
+#st.video("meu_video.mp4", start_time=10) 
