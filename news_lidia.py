@@ -27,7 +27,7 @@ st.markdown(
 )
 
 # Conteúdo da carta com botão
-if st.button("Open your letter 💌"):
+if st.button("Open your letter - 23 jan💌"):
     st.markdown(
         """
         <div class="custom-container">
@@ -64,6 +64,68 @@ if st.button("Open your letter 💌"):
             <p>And I know you must be wondering "why does this crazy girl still talk to me?! And do she still think we'll see each other again?!" hahaha but if you put up with me for another month, I'll tell you, if not you'll never know👀 kkkkkk</p>
             <p>Well, next week I'll be back with more Lídia news hahah</p>
             <p>I hope you had a blessed week, kisses on your breasts and a bite on your ear 😘</p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+if st.button("Open your letter +18 - 26 jan💋"):
+    st.markdown(
+        """
+        <div class="custom-container">
+            <h3>26/01 – Week Edition</h3>
+            <strong>Writer:</strong> <em>Your fucking idiot</em>
+            <p></p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    colx1, colx2, colx3 = st.columns([1, 2, 1])
+    
+    with colx2:
+        st.image(
+            "family.jpg",
+            caption="FIRST, our future happy family🙃",
+            use_container_width =False, width=300,
+        )
+            
+    st.markdown(
+        """
+        <div class="custom-container">
+            <p>First, I don’t wanna hear ONLY that WAS a beautiful time that we livED and WAS good the energy that we sharED, all in past, okay?! ... because I’m sending my energy and affections for the letters, Did you wont received? If not, I will have to complain to the mail service hahaha</p>
+            <p></p>
+            <p>We'll meet in person again, okay? </p>
+            <p>I'll only give up on this plan if you don't want me anymore rsrs. Otherwise, I have plans to come visit you later this year, even if it's on 12/31 hahahah, and if you want to come earlier, you can stay here at my house, I'll even make a copy of the key for you kkkkk. </p>
+            <p>Annnd ughhh your breast muscle it been big already, in the next answer vídeo, you can be without tshirt to me to analize better 😉</p>
+            <p>Babe, why a Golden retriever needs 2 pre work?? Why??? </p>
+            <p>Be careful, okay my love? I know that you wants fast results, but don't lose of your eyes your health too... You have to have health to put up me while I ride on you hahah</p>
+            <p>I wasn't going to send a letter today, but you visited my mind all night... and I'm warning you right now, this letter is a little bit +18🙃</p>
+            <p></p>
+            <p>Mr. Ryan, you back to your country and left a little you in my mind telling "chickens" all day hahaha (send me this vídeo pleaseee haha) </p>
+            <p>I miss your kisses, you pressing me against the wall, holding my neck, looking into my eyes while you caressed me. </p>
+            <p>I miss you putting my breasts in your mouth, your kisses on my pussy. Oh, I really regret not letting you cum inside me. I know I would be crazy with fear of getting pregnant hahaha, but now I have to imagine what it would be like to have you inside me, cumming for me and moaning in my ear. You move me, boy, a lot... and do you know what's the worst? Or the best for you? rsrs... that you moved me by just being yourself, doing and saying little things, and with that beautiful way of looking at me. </p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    col1, col2, col3 = st.columns([1, 2, 1])
+    
+    with col2:
+        st.image(
+            "look.jpeg",
+            caption="I'm in love for this photo",
+            use_container_width =False, width=300,
+        )
+    
+    st.markdown(
+        """
+        <div class="custom-container">
+            <p>I wish I could be killing the heat of Rio with you in the shower or bathtub, massaging your back with soap, with my breasts too, running my hand all over your body, and whispering something stupid in your ear to see your smile. </p>
+            <p>Get ready, love, because the next time I see you, I'll be wearing beautiful lingerie and we'll spend hours locked in a room... Talking, making love, making you laugh, making love in a dog style, laughing at the stupid things you say, and fucking on the table hahaha</p>
+            <p>I miss you my boy. Receive my kisses that are full of love and horniness  😘🫦</p>
         </div>
         """,
         unsafe_allow_html=True,
