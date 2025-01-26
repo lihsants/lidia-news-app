@@ -96,8 +96,8 @@ if st.button("Open your letter +18 - 26 jan💋"):
         <div class="custom-container">
             <p>First, I don’t wanna hear ONLY that WAS a beautiful time that we livED and WAS good the energy that we sharED, all in past, okay?! ... because I’m sending my energy and affections for the letters, Did you wont received? If not, I will have to complain to the mail service hahaha</p>
             <p></p>
-            <p>We'll meet in person again, okay? </p>
-            <p>I'll only give up on this plan if you don't want me anymore rsrs. Otherwise, I have plans to come visit you later this year, even if it's on 12/31 hahahah, and if you want to come earlier, you can stay here at my house, I'll even make a copy of the key for you kkkkk. </p>
+            <p>We'll meet in person again, okay? ...we'll probably get married too, we'll have kids, who knows?!.. God knows 👀 Kkk </p>
+            <p>I'll only give up of see you if you don't want me anymore rsrs. Otherwise, I have plans to come visit you later this year, even if it's on 12/31 hahahah, and if you want to come earlier, you can stay here at my house, I'll even make a copy of the key for you kkkkk. </p>
             <p>Annnd ughhh your breast muscle it been big already, in the next answer vídeo, you can be without tshirt to me to analize better 😉</p>
             <p>Babe, why a Golden retriever needs 2 pre work?? Why??? </p>
             <p>Be careful, okay my love? I know that you wants fast results, but don't lose of your eyes your health too... You have to have health to put up me while I ride on you hahah</p>
