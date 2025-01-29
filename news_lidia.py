@@ -147,11 +147,11 @@ if st.button("Open your letter +18 - 26 jan💋"):
     )
 
 
-if st.button("Open your letter - 29 jan❤️"):
+if st.button("Open your letter - 30 jan❤️"):
     st.markdown(
         """
         <div class="custom-container">
-            <h3>29/01 – Week Edition</h3>
+            <h3>30/01 – Week Edition</h3>
             <strong>Writer:</strong> <em>A different girl</em>
             <p></p>
         </div>
