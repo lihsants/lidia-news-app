@@ -146,6 +146,82 @@ if st.button("Open your letter +18 - 26 jan💋"):
         unsafe_allow_html=True,
     )
 
+
+if st.button("Open your letter - 29 jan❤️"):
+    st.markdown(
+        """
+        <div class="custom-container">
+            <h3>29/01 – Week Edition</h3>
+            <strong>Writer:</strong> <em>A different girl</em>
+            <p></p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+            
+    st.markdown(
+        """
+        <div class="custom-container">
+            <p><p>Ry, first I wanted to know how you are... I'm worried about you... I know you said you would be more off and such, but I don't know, I don't feel like you're doing very well... You're not eating the way you like, you spend the day working or studying, and it's cold there, which doesn't help you stay happy rsrs, and you're still without me, which I imagine must be the hardest part kkkk... So, my love, how are you REALLY doing? </p>
+            <p></p>
+            <p>I'm praying for you got a good modeling or acting contract here in Rio, and u would have to spend about 2/3 months here hahaha </p>
+            <p>Don't worry, my air conditioner should arrive in this week here</p>
+            <p></p>
+            <p>This week was tiring lol... I had the second phase of the interviews I did, there was one that also has two tests that I have to do. I'm already tired of telling you about my professional trajectory kkkkk. At work at the beginning of the week it seemed like nothing was going well. </p>
+            <p></p>
+            <p>Ahh, I'm teaching English to my niece, look at that (spreading Sims English to the world hahaha) </p>
+            <p></p>
+            </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    cola1, cola2, cola3 = st.columns([1, 2, 1])
+
+    with cola2:
+        st.video("Isa.mp4")
+        
+    st.markdown(
+        """
+        <div class="custom-container">        
+            <p>Funny thing is that this weekend I was on my period... and when I'm like that I get really clumsy... One time I went to a two-story store, but they put shelves with products on the stairs, can you believe I managed to knock over half of the shelves while I was trying to climb the stairs?! kkkkkk</p>
+            <p>All I could do was look at the things on the floor and at the store saleswoman, who was killing me with her eyes kkkk... I tried to offer help, but she was so pissed off and scared, she just wanted me to not touch anything else kkkkkkkk. </p>
+            <p>Then this weekend I got really sick with cramps, so I stayed with my mother on Friday and Saturday to be taken care of by her. Then one day I felt like eating fried cassava, so I went to cook it, forgot about it on the stove and the pan dried out. When I was frying it, I managed to make the oil splash and burn my arm... I got kicked in the face by my niece while she was sleeping, I went to walk in the yard, slipped and hurt my little finger, kkkkkk... I'm a walking danger to myself, with PMS... So I went back home and stayed quiet... I only went out on Sunday to make a delivery for my brother and to see a show that was on the beach. </p>
+            <p>Sometimes I think life is so unfair... there are a lot of idiots guys after me, there are nice guys too, but it's hard to find someone who seems everything its fine, you know? The people I've met in the last few years are nothing like me, and there's a guy who's crazy like me, with a totally childish sense of humor like mine, who's good with the people around him, sees life in a beautiful way, like I do see it, who's confident in himself, who managed to see behind the big wall I have, a Man who made me sure of what I wanted, but he simply lives in another country, and a country with 300 bureaucracies to get into... Why life couldn't be a little easier sometimes rsrs</p>
+            <p>And I feel like an idiot writing these letters, like Ted Mosby kkkkk I also feel like I'm in the movie The Lake House kk, and I also don't know if it's serving the purpose I wanted, of bringing us closer together, even in the midst of the crazy routine. Sometimes I'm afraid it's separating us more because it also increases the longing. And like the good Ted Mosby that I am, I don't want to stop believing in my fairy tale yet. And it's good to smile again when I see a message notification. My romantic soul hopes that these letters are helping my Sims continue building his house inside your heart kkkkkk. But if they're at least helping to make you smile in this difficult routine of yours, I'll be happy. </p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    
+    
+    col1, col2, col3 = st.columns([1, 2, 1])
+    
+    with col2:
+        st.image(
+            "ted.jpg",
+            caption="Ted Mosby",
+            use_container_width =False, width=300,
+        )
+    
+    st.markdown(
+        """
+        <div class="custom-container">
+            <p>How crazy it must have been in the past, people would send letters, wait days for them to arrive, and then more days for the answer to come. </p>
+            <p></p>
+            <p>Ry, I'm amazed at how I can open up to you. Those who know me know that I'm a very closed person when it comes to what I'm feeling and what I want, and I don't know... I feel good talking about myself with you. I'm even thinking about the next letter being something like "Who is Lídia?" kkkkkk. If you have any questions, leave them in my inbox kkkkkk. </p>
+            <p></p>
+            <p>Ahh, I'll let you choose the day of our next teledate, okay?... I can only do it after 8pm BR on weekdays. </p>
+            <p></p>
+            <p></p>
+            <p>Receive my kisses with much affection😘❤️</p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
 # Rodapé
 st.write("---")
 st.caption("Created with ❤️ using freetime")
