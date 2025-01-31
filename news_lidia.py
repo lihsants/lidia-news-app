@@ -147,7 +147,7 @@ if st.button("Open your letter +18 - 26 jan💋"):
     )
 
 
-if st.button("Open your letter - 30 jan❤️"):
+if st.button("Open your BIG letter - 30 jan❤️"):
     st.markdown(
         """
         <div class="custom-container">
@@ -168,7 +168,8 @@ if st.button("Open your letter - 30 jan❤️"):
             <p>I'm praying for you got a good modeling or acting contract here in Rio, and u would have to spend about 2/3 months here hahaha </p>
             <p>Don't worry, my air conditioner should arrive in this week here</p>
             <p></p>
-            <p>This week was tiring lol... I had the second phase of the interviews I did, there was one that also has two tests that I have to do. I'm already tired of telling you about my professional trajectory kkkkk. At work at the beginning of the week it seemed like nothing was going well. </p>
+            <p>This week was tiring rsrs... I had the second phase of the interviews I did, I'm tired of telling you about my professional trajectory kkkk. I had to do two huge technical tests, I finished one this morning, at 3 am, and I just finished the last one now, before sending you this letter 😪. I'm dead and very hungry lol. And at work at the beginning of the week it seemed like nothing was going well. </p>
+            <p>Aaanddd babe What's happening with the world in this 2 days?! Death in a religion ceremony in India, yesterday was a terrible rain here in Rio, the water in street was upper the bus, our cellphones in the streets received alert from the government... There in US had a unbelievable accident, the helicopter had already seen the plane from a distance, the control tower had already informed them and even so they collided .... Be safa there my boy, I'm praying for u, and pray to me and my family too🙏🏼  (by the way, we are all fine from yesterday's rain🙌🏼)</p>
             <p></p>
             <p>Ahh, I'm teaching English to my niece, look at that (spreading Sims English to the world hahaha) </p>
             <p></p>
@@ -189,7 +190,7 @@ if st.button("Open your letter - 30 jan❤️"):
             <p>All I could do was look at the things on the floor and at the store saleswoman, who was killing me with her eyes kkkk... I tried to offer help, but she was so pissed off and scared, she just wanted me to not touch anything else kkkkkkkk. </p>
             <p>Then this weekend I got really sick with cramps, so I stayed with my mother on Friday and Saturday to be taken care of by her. Then one day I felt like eating fried cassava, so I went to cook it, forgot about it on the stove and the pan dried out. When I was frying it, I managed to make the oil splash and burn my arm... I got kicked in the face by my niece while she was sleeping, I went to walk in the yard, slipped and hurt my little finger, kkkkkk... I'm a walking danger to myself, with PMS... So I went back home and stayed quiet... I only went out on Sunday to make a delivery for my brother and to see a show that was on the beach. </p>
             <p>Sometimes I think life is so unfair... there are a lot of idiots guys after me, there are nice guys too, but it's hard to find someone who seems everything its fine, you know? The people I've met in the last few years are nothing like me, and there's a guy who's crazy like me, with a totally childish sense of humor like mine, who's good with the people around him, sees life in a beautiful way, like I do see it, who's confident in himself, who managed to see behind the big wall I have, a Man who made me sure of what I wanted, but he simply lives in another country, and a country with 300 bureaucracies to get into... Why life couldn't be a little easier sometimes rsrs</p>
-            <p>And I feel like an idiot writing these letters, like Ted Mosby kkkkk I also feel like I'm in the movie The Lake House kk, and I also don't know if it's serving the purpose I wanted, of bringing us closer together, even in the midst of the crazy routine. Sometimes I'm afraid it's separating us more because it also increases the longing. And like the good Ted Mosby that I am, I don't want to stop believing in my fairy tale yet. And it's good to smile again when I see a message notification. My romantic soul hopes that these letters are helping my Sims continue building his house inside your heart kkkkkk. But if they're at least helping to make you smile in this difficult routine of yours, I'll be happy. </p>
+            <p>Sometimes I feel like an idiot writing these letters, like Ted Mosby or in the movie The Lake House kkkkkk, and I also don't know if it's serving the purpose I wanted, of bringing us more closer, even in the midst of the crazy routine. But like the good Ted Mosby that I am, I have to believe in my fairy tale kkkk. And it's good to smile again when I see a message notification. My romantic soul hopes that these letters are helping my Sims continue building his house inside your heart kkkkkk. But if they're at least helping to make you smile in this difficult routine of yours, I'll be happy. 💛</p>
         </div>
         """,
         unsafe_allow_html=True,
@@ -213,7 +214,12 @@ if st.button("Open your letter - 30 jan❤️"):
             <p></p>
             <p>Ry, I'm amazed at how I can open up to you. Those who know me know that I'm a very closed person when it comes to what I'm feeling and what I want, and I don't know... I feel good talking about myself with you. I'm even thinking about the next letter being something like "Who is Lídia?" kkkkkk. If you have any questions, leave them in my inbox kkkkkk. </p>
             <p></p>
+            <p>I said too much in this letter né?! but it's my hormones' fault, they were agitated this week kkkk🤷🏼‍♀️🙃</p>
+            <p></p>
             <p>Ahh, I'll let you choose the day of our next teledate, okay?... I can only do it after 8pm BR on weekdays. </p>
+            <p></p>
+            <p></p>
+            <p>I miss u!</p>
             <p></p>
             <p></p>
             <p>Receive my kisses with much affection😘❤️</p>
