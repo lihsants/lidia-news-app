@@ -27,7 +27,7 @@ st.markdown(
 )
 
 # Conteúdo da carta com botão
-if st.button("Open your letter - 23 jan💌"):
+if st.button("Letter - 23 jan💌"):
     st.markdown(
         """
         <div class="custom-container">
@@ -70,7 +70,7 @@ if st.button("Open your letter - 23 jan💌"):
     )
 
 
-if st.button("Open your letter +18 - 26 jan💋"):
+if st.button("Letter +18 - 26 jan💋"):
     st.markdown(
         """
         <div class="custom-container">
@@ -147,7 +147,7 @@ if st.button("Open your letter +18 - 26 jan💋"):
     )
 
 
-if st.button("Open your BIG letter - 30 jan❤️"):
+if st.button("BIG Letter - 30 jan❤️"):
     st.markdown(
         """
         <div class="custom-container">
@@ -227,6 +227,55 @@ if st.button("Open your BIG letter - 30 jan❤️"):
         """,
         unsafe_allow_html=True,
     )
+
+if st.button("Open your letter talking about Ryan - 09 fev💋"):
+    st.markdown(
+        """
+        <div class="custom-container">
+            <h3>09/02 – Week Edition</h3>
+            <strong>Writer:</strong> <em>Me</em>
+            <p></p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    st.markdown(
+        """
+        <div class="custom-container">
+            <p>Hi babe, </p>
+            <p>How was the doctor? </p>
+            <p>Here this week was the same, more interview, English test, work... I was visit my friends new house, we did a little party rsrs a drunk a lot that I finished slept on the table hahaha </p>
+            <p>And today is a birthday of one of my friends, and she choose celebrate in that japanese restaurant, that we ate ... today and that day was nice</p>
+            <p>A friend and I tried to install the air-conditioning, but it was terrible hahahahah... it's too big for the space I had to install it, and the screws were very rusty... I'll have to wait for my brother to have time to come here and fix it</p>
+            <p></p>
+            <p>I never asked before, did you do a college? </p>
+            <p></p>
+            <p>I realized that a know almost nothing about u ... and how this week I dont have a lot things to say, let talk about u rs</p>
+            <p>I know that your family it's from Guiana, I know that you have bad boys around u in your childhood, and also know that you survives from this guy's and now u are modeling while they probably aren't too handsome like u (they are probably bald hahah)... I know that you a man that always figure out a way to get what you want (It's a shame that me is not one of your goals rsrs)... But, what more? Your fears, you perfect day, your Family.... </p>
+            <p></p>
+            <p>Tell me your Dirty secrets babe haha 📖</p>
+            <p></p>
+            <p>This week you go back to work né? Sooo that u have a good return 🙏🏽</p>
+            <p></p>
+            <p>kisses and hugs my boy 🥰😘</p>
+            <p></p>
+            </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+  
+    
+    col1, col2, col3 = st.columns([1, 2, 1])
+    
+    with col2:
+        st.image(
+            "kiss.jpeg",
+            caption="To u 😘",
+            use_container_width =False, width=300,
+        )
+
 
 # Rodapé
 st.write("---")
